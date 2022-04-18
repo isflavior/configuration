@@ -8,3 +8,4 @@ node
 python@3.9
 php
 composer
+rust
